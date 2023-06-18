@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         EZBypass (Linkvertise and Krnl Linkvertise) [WORKING]
+// @name         EZBypass (Linkvertise and Krnl Linkvertise) [WORKING AS OF 6/18/2023]
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      1.6
 // @description  Simplifies Linkvertise link bypassing.
 // @author       X1Y
 // @match        *://*.linkvertise.com/*
