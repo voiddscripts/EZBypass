@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         EZBypass (Linkvertise and Krnl Linkvertise) [Updated again]
+// @name         EZBypass (Linkvertise and Krnl Linkvertise) [WORKING]
 // @namespace    http://tampermonkey.net/
 // @version      1.5
 // @description  Simplifies Linkvertise link bypassing.
